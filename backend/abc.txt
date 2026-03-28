@@ -1,0 +1,9 @@
+# 🏭 Metallic Surface Defect Detection using CNN + ViT
+
+## 📌 Project Overview
+
+This project detects defects on metallic surfaces using a hybrid deep learning model combining Convolutional Neural Networks (CNN) and Vision Transformer (ViT).
+
+## 🧠 Model Architecture
+
+* CNN for feature extraction
