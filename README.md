@@ -16,8 +16,7 @@ This project detects defects on metallic surfaces using a hybrid deep learning m
 
   * Crazing, Inclusion, Patches, Pitted, Rolled, Scratches
 * Flask API for backend prediction
-* React frontend for user interaction
-* Grad-CAM visualization for explainability
+* React frontend for user interaction 
 
 ##  Technologies Used
 
